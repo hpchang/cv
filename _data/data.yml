@@ -78,7 +78,7 @@ experiences:
     time: 2018 - Present
     company: 開必拓數據 Kapito Inc, Taiwan
     details: | # 確保使用 | 且內容正確縮排
-       Provided fast and stable AI inspection solution
+       Provided fast and stable AI inspection solution fastable.ai
   - role: Sr. Firmware Engineer <sub>for TDDI SoC</sub>
     time: 2014 - 2018
     company: Synaptics, Taiwan
@@ -107,9 +107,9 @@ experiences:
       camera module system with H.264 video recording in WinCE platform.
 
 certifications:
-  title: Certifications
+  title: Recognitions
   list:
-  - name: Synaptics Awards 2017
+  - name: Synaptics Awards
     start: 2017
     end: null # 建議明確設定為 null 而非空
     organization: Smart Display Division
@@ -119,7 +119,7 @@ certifications:
     details: |
       "Exhilarating and Rewarding Environment" for achievement for initial release to MP of tire-one OEM with A0 silicon.
 
-  - name: Synaptics Awards 2016
+  - name: Innovation to Win Awards
     start: 2016
     end: null # 建議明確設定為 null 而非空
     organization: Smart Display Division
@@ -127,12 +127,28 @@ certifications:
     credentialurl: https://www.synaptics.com/
     credentialname: Synaptics
     details: |
-      "Innovation to Win" for overcoming a tremendous deal of challenges throughout silicon development w/ new fabrication.
+      The award for overcoming a tremendous deal of challenges throughout silicon development w/ new fabrication.
 
 publications:
   title: Publications
   intro: null # 建議明確設定為 null 而非空
   papers:
+  - title: '箔状物の表面検査システム'
+    link: 'https://patents.google.com/patent/JP2025009632A'
+    Inventor: 孫逢佐, 葉怡婷, 孫逢佑, 陳廷清, 張惠普...
+    year: 2025
+  - title: '箔状物の表面検査システム'
+    link: 'https://patents.google.com/patent/JP2023081848A'
+    Inventor: 孫逢佐, 葉怡婷, 孫逢佑, 洪祥恩, 周博翰, 張惠普, 陳允毅...
+    year: 2023
+  - title: 'Motor controlling system for application in apparatus having roll-to-roll mechanism'
+    link: 'https://patents.google.com/patent/US20230061439A1'
+    Inventor: Feng-Tso Sun, Yi-Ting Yeh, Feng-Yu Sun, Po-Han Chou, Yun-Yi Chen, Hui-Pu CHANG, Jyun-Tang Huang
+    year: 2023
+  - title: 'System and method for sorting moving objects'
+    link: 'https://patents.google.com/patent/US20210024297A1'
+    Inventor: Feng-Tso Sun, Yi-Ting Yeh, Feng-Yu Sun, Hui-Pu CHANG
+    year: 2021
   - title: 'Digital programmable load measurement device'
     link: 'https://www.google.com/patents/US20130054155'
     authors: Shyh-Biau Jiang, HP CHANG
