@@ -133,31 +133,25 @@ publications:
   title: Publications
   intro: null # 建議明確設定為 null 而非空
   papers:
-  - title: '箔状物の表面検査システム'
+  - title: '箔状物の表面検査システム, 2025'
     link: 'https://patents.google.com/patent/JP2025009632A'
     authors: 孫逢佐, 葉怡婷, 孫逢佑, 陳廷清, 張惠普...
-    conference: 2025
-  - title: '箔状物の表面検査システム'
+  - title: '箔状物の表面検査システム, 2023'
     link: 'https://patents.google.com/patent/JP2023081848A'
     authors: 孫逢佐, 葉怡婷, 孫逢佑, 洪祥恩, 周博翰, 張惠普, 陳允毅...
-    conference: 2023
-  - title: 'Motor controlling system for application in apparatus having roll-to-roll mechanism'
+  - title: 'Motor controlling system for application in apparatus having roll-to-roll mechanism, 2023'
     link: 'https://patents.google.com/patent/US20230061439A1'
     authors: Feng-Tso Sun, Yi-Ting Yeh, Feng-Yu Sun, Po-Han Chou, Yun-Yi Chen, Hui-Pu CHANG...
-    conference: 2023
-  - title: 'System and method for sorting moving objects'
+  - title: 'System and method for sorting moving objects, 2021'
     link: 'https://patents.google.com/patent/US20210024297A1'
     authors: Feng-Tso Sun, Yi-Ting Yeh, Feng-Yu Sun, Hui-Pu CHANG...
-    conference: 2021
-  - title: 'Digital programmable load measurement device'
+  - title: 'Digital programmable load measurement device, 2011'
     link: 'https://www.google.com/patents/US20130054155'
     authors: Shyh-Biau Jiang, HP CHANG
-    conference: 2011
-  - title: 'A new on-line battery
+  - title: 'A new on-line battery, 2007
     state-of-charge estimation and monitoring system'
     link: 'https://hdl.handle.net/11296/qu699m'
     authors: HP CHANG
-    conference: 2007
 
 skills:
   title: Skills &amp; Proficiency # <-- 確保有這個
