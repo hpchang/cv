@@ -78,7 +78,7 @@ experiences:
     time: 2018 - Present
     company: 開必拓數據 Kapito Inc, Taiwan
     details: | # 確保使用 | 且內容正確縮排
-       Provided fast and stable AI inspection solution [link:fastable.ai](https://fastable.ai)
+       Provided fast and stable AI inspection solution <a href="https://fastable.ai" style="color: #0074d9;">fastable.ai</a>
   - role: Sr. Firmware Engineer <sub>for TDDI SoC</sub>
     time: 2014 - 2018
     company: Synaptics, Taiwan
